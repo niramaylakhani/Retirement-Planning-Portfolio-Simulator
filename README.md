@@ -41,8 +41,8 @@ The tool is built in Excel with VBA macros (see `.xlsm` file). Enable macros to 
 
 ## 📁 Files
 
-- `Project 3.xlsm` — Excel file with simulation and input interface
-- `Project Three.pdf` — Project description and grading rubric
+- `Retirement Planning Portfolio Simulator.xlsm` — Excel file with simulation and input interface
+- `Project Instructions.pdf` — Project description and grading rubric
 
 ## 📌 License
 
