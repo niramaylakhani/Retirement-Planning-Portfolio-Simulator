@@ -47,8 +47,7 @@ The tool is built in Excel with VBA macros (see `.xlsm` file). Enable macros to 
 ## 👨‍💻 Author
 
 **Niramay Lakhani**  
-M.S. in Quantitative Finance  
-Northeastern University, Boston  
+M.S. in Quantitative Finance | Northeastern University, Boston  
 
 ## 📌 License
 
