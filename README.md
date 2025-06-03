@@ -44,6 +44,12 @@ The tool is built in Excel with VBA macros (see `.xlsm` file). Enable macros to 
 - `Retirement Planning Portfolio Simulator.xlsm` — Excel file with simulation and input interface
 - `Project Instructions.pdf` — Project description and grading rubric
 
+## 👨‍💻 Author
+
+**Niramay Lakhani**  
+M.S. in Quantitative Finance  
+Northeastern University, Boston  
+
 ## 📌 License
 
 This project is developed for educational purposes and is not intended for professional financial planning without validation.
